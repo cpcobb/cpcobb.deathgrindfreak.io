@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Join The Rebellion!
+order: 3
 permalink: /join/
 ---
 

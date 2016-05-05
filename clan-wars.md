@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Clan Wars
+order: 2
 permalink: /wars/
 ---
 

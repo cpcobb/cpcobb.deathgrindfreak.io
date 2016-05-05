@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The Jedi Code
+order: 1
 permalink: /code/
 ---
 
