@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to the Clan Page!"
-date:   2016-05-05 18:54:40 -0500
+title: "Welcome to the Clan Page!"
+date: 2016-05-05 18:54:40 -0500
 categories: Ganja
 ---
 
