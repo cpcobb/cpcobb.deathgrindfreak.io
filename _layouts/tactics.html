@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<!-- Note, this sucks but I busted it out quickly -->
+
+<div id="content">
+    {{ content }}
+    <ul id="tabs" class="nav nav-tabs" data-tabs="tabs">
+        <li class="active"><a href="#th7" data-toggle="tab">TH7</a></li>
+        <li><a href="#th8" data-toggle="tab">TH8</a></li>
+        <li><a href="#th9" data-toggle="tab">TH9</a></li>
+        <li><a href="#th10" data-toggle="tab">TH10</a></li>
+        <li><a href="#th11" data-toggle="tab">TH11</a></li>
+    </ul>
+    <div id="my-tab-content" class="tab-content">
+        <div class="tab-pane active" id="red">
+            {% capture my-include %}{% include th7.md %}{% endcapture %}
+            {{ my-include | markdownify }}
+        </div>
+        <div class="tab-pane" id="orange">
+            {% capture my-include %}{% include th8.md %}{% endcapture %}
+            {{ my-include | markdownify }}
+        </div>
+        <div class="tab-pane" id="yellow">
+            {% capture my-include %}{% include th9.md %}{% endcapture %}
+            {{ my-include | markdownify }}
+        </div>
+        <div class="tab-pane" id="green">
+            {% capture my-include %}{% include th10.md %}{% endcapture %}
+            {{ my-include | markdownify }}
+        </div>
+        <div class="tab-pane" id="blue">
+            {% capture my-include %}{% include th11.md %}{% endcapture %}
+            {{ my-include | markdownify }}
+        </div>
+    </div>
+</div>
