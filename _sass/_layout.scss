@@ -1,3 +1,12 @@
+.main-wrapper {
+    width: $content-width;
+    margin: 0 auto;
+    
+    @include media-query($on-palm) {
+        width: auto;
+    }
+}
+
 /**
  * Site header
  */
@@ -15,9 +24,13 @@
 }
 
 #header-wrapper img {
-    width: 680px;
+    width: $content-width;
     display: block;
     margin: 0 auto;
+    
+    @include media-query($on-palm) {
+        display: none;
+    }
 }
 
 .site-title {
@@ -53,8 +66,6 @@
         top: 9px;
         right: $spacing-unit / 2;
         background-color: $background-color;
-        border: 1px solid $grey-color-light;
-        border-radius: 5px;
         text-align: right;
 
         .menu-icon {
