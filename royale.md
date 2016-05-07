@@ -5,5 +5,7 @@ order: 5
 permalink: /royale/
 ---
 
-Join the Ganja Jedi on COC Royale!
+![Clash Royale image](/royale.png)
+
+Join the Ganja Jedi on COC Royale! <br/>
 Clan Tag: #COLV92

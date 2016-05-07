@@ -22,9 +22,6 @@ body {
     -o-font-feature-settings: "kern" 1;
     font-feature-settings: "kern" 1;
     font-kerning: normal;
-
-    background: url("/stars.jpg") repeat;
-
 }
 
 
@@ -159,6 +156,8 @@ pre {
 .wrapper {
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
     max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+    padding-right: $spacing-unit;
+    padding-left: $spacing-unit;
     margin-right: auto;
     margin-left: auto;
     @extend %clearfix;
