@@ -1,20 +1,14 @@
 
-Here's a good one:
+Adopting the 3 Star Mentality:
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/B_3TlrZLpQ0" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=6bHYbAV0Be0" frameborder="0" allowfullscreen></iframe>
 
-And another:
+How to Funnel:
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/B_3TlrZLpQ0" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=Q7q-_6drHQI" frameborder="0" allowfullscreen></iframe>
 
-And another:
+TH7 Mass Dragon:
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/B_3TlrZLpQ0" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=0rWN9FLMGT4" frameborder="0" allowfullscreen></iframe>
 
-And another:
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/B_3TlrZLpQ0" frameborder="0" allowfullscreen></iframe>
-
-And another:
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/B_3TlrZLpQ0" frameborder="0" allowfullscreen></iframe>
