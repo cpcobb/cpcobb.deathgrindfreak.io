@@ -1,7 +1,7 @@
 
 Powerbang's 3 Star Bible Episode 1 (highly recommended series):
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/LLcrEPYB1LI" frameborder="0" allowfullscreen></iframe>
 
 3 Star Formula:
 
