@@ -6,5 +6,5 @@ categories: Ganja
 ---
 
 
-We’re a chill level 7 family clan currently recruiting only active TH8+ with the 3 star specialist mentality. 
+We’re a chill level 7 family clan currently only recruiting active TH8+ with the 3 star specialist mentality. 
 Please check our Join the Rebellion! section for further details. Viva la ganja!
