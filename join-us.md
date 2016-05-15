@@ -22,7 +22,7 @@ Joining the Ganja Jedi requires a minimum of: <br/>
 *Loyalty.*  Players who plan to be a part of the Jedi familia for a very long time. <br/>
 *Maturity.* We don’t have an age requirement, because we don’t believe your age defines your maturity, but we expect a high level of maturity as everyone will be treated as adults.  <br/>
 Highly active and friendly.  <br/>
-Able and willing to participate in the majority of our clan's wars.
+Able and willing to participate in the majority of our clan's wars. <br/>
 Currently know or willing to learn 3 star techniques. Such as GoVaHo, GoHo, GoLaLoon, Penta, Queen Walk, etc. 
 
 We’re an ideal clan for chill people that are serious about winning wars, but who don’t want to war 24/7. 
