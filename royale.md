@@ -7,5 +7,6 @@ permalink: /royale/
 
 ![Clash Royale image](/royale.png)
 
-Join the Ganja Jedi on COC Royale! <br/>
-Clan Tag: #COLV92
+**Join the Ganja Jedi on COC Royale!** <br/>
+Clan Tag: #COLV92 <br/>
+Clan Shield: Black Shield/Gold Skull 
