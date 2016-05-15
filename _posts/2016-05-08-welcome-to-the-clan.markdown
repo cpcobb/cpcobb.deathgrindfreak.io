@@ -6,5 +6,7 @@ categories: Ganja
 ---
 
 
-We’re a chill level 7 family clan currently only recruiting active TH8+ with the 3 star specialist mentality. 
-Please check our Join the Rebellion! section for further details. Viva la ganja!
+We are a fun level 7 war/farming family clan. Everyone is mature and respectful. We are mostly U.S. based but have members from all over. 
+Our focus is to help one another upgrade our bases, keep each others cc's full, and work together to improve our war skills, and have fun as we strive for 3 stars in clan wars. 
+ 
+Please check our Join the Rebellion! section for further details on how to join us. 
