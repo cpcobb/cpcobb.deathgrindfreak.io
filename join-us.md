@@ -9,8 +9,8 @@ permalink: /join/
 **Clan Shield:** Green/Black
 
 No rushed bases. If you can't use clash caller please don't join. <br/> 
-To avoid scouts we do not accept Jedi requests on prep/war days to avoid scouts. <br/> 
-Trophy level is 1400 but there is no trophy level requirement. 
+To avoid scouts we do not accept Jedi requests on prep/war days. <br/> 
+Trophy level is 1400 to join, but there is no trophy level requirement. 
 
 Joining the Ganja Jedi requires a minimum of: <br/>
 *TH8:*  Level 2+ Dragons, Golem, and Lvl 5+ Barb King <br/>
