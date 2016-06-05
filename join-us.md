@@ -5,6 +5,8 @@ order: 3
 permalink: /join/
 ---
 
+![Spirit Call](/spirit.jpg)
+
 **Clan Tag:** #UU98QC9 <br/>
 **Clan Shield:** Green/Black
 

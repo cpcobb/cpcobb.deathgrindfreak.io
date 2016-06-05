@@ -4,6 +4,9 @@ title: The Jedi Code
 order: 1
 permalink: /code/
 ---
+
+![Blazed Wizard](/blazed_wiz.jpg)
+
 * War is optional, but highly encouraged and to be taken seriously. 
 * Use clash caller to particpate in wars (See our Clan Wars section for further details). 
 * 3 Star War Army Attacks only.
