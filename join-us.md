@@ -8,7 +8,7 @@ permalink: /join/
 ![Spirit Call](/spirit.jpg)
 
 **Clan Tag:** #UU98QC9 <br/>
-**Clan Shield:** Green/Black ![Clan Shield](/badge.jpg)
+**Clan Shield:** Green/Black ![Clan Shield](/badge.jpg =50x)
 
 No rushed bases. If you can't use clash caller please don't join. <br/> 
 To avoid scouts we do not accept Jedi requests on prep/war days. <br/> 
