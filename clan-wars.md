@@ -5,6 +5,8 @@ order: 2
 permalink: /wars/
 ---
 
+![Light saber barbarians](/light_sabers.jpg)
+
 War is optional. Leader fills all clan castles. Wars 2-3 times a week.
 
 War Schedule: Tuesdays/Fridays are prep days. Wars on Wednesdays and Saturdays. War search starts at 12 noon central time. 
