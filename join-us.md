@@ -15,6 +15,7 @@ To avoid scouts we do not accept Jedi requests on prep/war days. <br/>
 Trophy level is 1400 to join, but there is no trophy level requirement. 
 
 Joining the Ganja Jedi requires a minimum of: <br/>
+*TH7:*  Level 2 Dragons and Barb King <br/>
 *TH8:*  Level 2+ Dragons, Golem, and Lvl 5+ Barb King <br/>
 *TH9:*  Level 2+ Golems and Combined Hero Lvl 15+ <br/>
 *TH10:* Level 4+ Golems and Combined Hero Lvl 25+ <br/>
@@ -24,7 +25,7 @@ Joining the Ganja Jedi requires a minimum of: <br/>
 *Loyalty.*  Players who plan to be a part of the Jedi familia for a very long time. <br/>
 *Maturity.* We don’t have an age requirement, because we don’t believe your age defines your maturity, but we expect a high level of maturity as everyone will be treated as adults.  <br/>
 Highly active and friendly.  <br/>
-Able and willing to participate in the majority of our clan's wars. <br/>
-Currently know or willing to learn 3 star techniques. Such as GoVaHo, GoHo, GoLaLoon, Penta, Queen Walk, etc. 
+TH7 & TH8 who are able and willing to participate in the majority of our clan's wars. <br/>
+Currently know or willing to learn 3 star techniques.  
 
 We’re an ideal clan for chill people that are serious about winning wars, but who don’t want to war 24/7. 
