@@ -7,14 +7,14 @@ permalink: /wars/
 
 ![Light saber barbarians](/light_sabers.jpg)
 
-War is optional. Leader fills all clan castles. Wars 2-3 times a week.
+War is optional, but highly encouraged. Leaders BLUNT, Jason, Queen Hart, and Nubblet will fill war cc's. Wars 2-3 times a week.
 
 War Schedule: Tuesdays/Fridays are prep days. Wars on Wednesdays and Saturdays. War search starts at 12 noon central time. 
 3rd War: Must volunteer to participate. Begins after our second war ends on Sundays.
 
 **New** members must opt out of the first war after joining the rebellion to witness how war is conducted. This prevents confusion and establishes credibility. 
 
-To participate in war you **MUST** be a Non Rushed TH7+ and agree to the following:
+To participate in war you **MUST** be a Non Rushed TH6+ and agree to the following:
 
 1. Attack Twice in War - Each attack should be an honest attempt to get a 3 star victory. 
 2. You must opt out if your Heroes and/or Spell Factory is upgrading.  
