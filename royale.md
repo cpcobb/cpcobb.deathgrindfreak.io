@@ -12,6 +12,4 @@ Clan Tag: #COLV92 <br/>
 Trophy Level: 2000
 Clan Shield: Black Shield/Gold Skull <img src="/royale_badge.jpg" width="50px"/> <br/>
 <br/>
-<br/>
-Any adult who is active, loyal, polite, donates, speaks Englsih, and has enough cups can join us. 
-It's a place to chill and chat with other members. 
+Hear ye, hear ye! We welcome Royale Jedi who are polite, donate, speak Englsih, have good sense of humors with enough cups to join our Royale Rebellion! It's a place to chill and chat with other members. Adults only. VIVA LA GANJA!
