@@ -13,7 +13,7 @@ permalink: /join/
 No rushed bases. If you can't use clash caller please don't join. <br/> 
 To avoid scouts we do not accept Jedi requests on prep/war days. <br/> 
 Trophy level is 1000 to join, but there is no trophy level requirement. <br/>
-You must agree to follow our rules under The Jedi Code section. 
+You must agree to follow our rules under The Jedi Code section and speak English. 
 
 Joining the Ganja Jedi requires a minimum of: <br/>
 *TH6:*  Must be very active/eager to level.   
