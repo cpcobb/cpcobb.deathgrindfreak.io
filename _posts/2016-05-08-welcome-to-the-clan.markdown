@@ -13,5 +13,5 @@ Our focus is to help one another upgrade our bases, keep each others cc's full, 
  
 Please check our Join the Rebellion! section for further details on how to join us. 
 
-VIVA LA GANJA!
+
 
