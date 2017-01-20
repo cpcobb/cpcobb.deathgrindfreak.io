@@ -32,5 +32,6 @@ We’re an ideal clan for chill people that are serious about winning wars, but 
 
 To avoid scouts we do not accept Jedi requests on prep/war days. <br/>
 If the clan setting is currently on closed and you're interested in joining our rebellion please email us at GANJAJEDI@HOTMAIL.COM so we may review your request. <br/>
+
 Please use "I WANT TO JOIN THE REBELLION" as your subject line and include your In game name, town hall level, war stars and your current trophy level. <br/> 
 No rushed bases. If you can't use clash caller please don't join.
