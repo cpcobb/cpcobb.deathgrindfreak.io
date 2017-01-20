@@ -10,8 +10,6 @@ permalink: /join/
 **Clan Tag:** #UU98QC9 <br/>
 **Clan Shield:** Green/Black <img src="/badge.jpg" width="50px"/>
 
-No rushed bases. If you can't use clash caller please don't join. <br/> 
-To avoid scouts we do not accept Jedi requests on prep/war days. <br/> 
 Trophy level is 1000 to join, but there is no trophy level requirement. <br/>
 You must agree to follow our rules under The Jedi Code section and speak English. 
 
@@ -30,4 +28,7 @@ Friendly, Highly active, and talkative.  <br/>
 TH6, TH7, and TH8 who are able and willing to participate in the majority of our clan's wars. <br/>
 Currently know or willing to learn 3 star techniques.  
 
-We’re an ideal clan for chill people that are serious about winning wars, but who don’t want to war 24/7. 
+We’re an ideal clan for chill people that are serious about winning wars, but who don’t want to war 24/7.<br/> 
+
+To avoid scouts we do not accept Jedi requests on prep/war days. If the clan setting is currently on closed and you're interested in joining our rebellion please email us at GANJAJEDI@HOTMAIL.COM so we may review your request. Please use "I WANT TO JOIN THE REBELLION" as your subject line and include your In game name, town hall level, war stars and your current trophy level. <br/> 
+No rushed bases. If you can't use clash caller please don't join.
