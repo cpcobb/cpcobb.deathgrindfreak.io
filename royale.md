@@ -8,9 +8,9 @@ permalink: /royale/
 ![Clash Royale image](/royale.png)
 
 **Join the Ganja Jedi on COC Royale!** <br/>
+**Clan Shield:** Black Shield/Gold Skull <img src="/royale_badge.jpg" width="50px"/> <br/>
 **Clan Tag:** #COLV92 <br/>
 **Trophy Level:** 1700 <br/>
-**Clan Shield:** Black Shield/Gold Skull <img src="/royale_badge.jpg" width="50px"/> <br/>
 **Minimum Requirements:** <br/>
 We need MAX participation during Clan Chest Sessions. A minimum of 20 Towers is suggested per session. <br/>
 There is no minimum donation number, and greed is not tolerated. You must be willing to donate, and donate often.  <br/>
