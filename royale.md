@@ -13,6 +13,7 @@ permalink: /royale/
 **Trophy Level:** 1600 <br/>
 Hear ye, hear ye! We welcome Royale Jedi who are active, polite, have a good sense of humor, and who have enough trophies to join our Royale Rebellion! (exceptions may be made if vouched for). It's a place to chill and chat with other members. Adults only. <br/>
 **Minimum Requirements:** <br/>
+<br/>
 We need MAX participation during Clan Chest Sessions. A minimum of 20 Towers is suggested per session. <br/>
 There is no minimum donation number, and greed is not tolerated. You must be willing to donate, and donate often.  <br/>
 
