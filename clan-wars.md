@@ -7,9 +7,9 @@ permalink: /wars/
 
 ![Light saber barbarians](/light_sabers.jpg)
 
-War is optional, but highly encouraged. Leaders BLUNT, Jason, Nubblet, and Queen Hart will fill war cc's. Wars 2-3 times a week.
+War is optional, but highly encouraged. Leader and Co-Leaders will fill war cc's. Wars 2-3 times a week.
 
-War Schedule: Tuesdays/Fridays are prep days. Wars on Wednesdays and Saturdays. War search starts at 12 noon central time. 
+War Schedule: Tuesdays/Fridays are prep days. Wars on Wednesdays and Saturdays. War search starts at 10 p.m. central time. 
 3rd War: Must volunteer to participate. Begins after our second war ends on Sundays.
 
 **New** members must opt out of the first war after joining the rebellion to witness how war is conducted. This prevents confusion and establishes credibility. 
