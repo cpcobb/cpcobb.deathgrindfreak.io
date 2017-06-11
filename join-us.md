@@ -10,11 +10,10 @@ permalink: /join/
 **Clan Tag:** #UU98QC9 <br/>
 **Clan Shield:** Green/Black <img src="/badge.jpg" width="50px"/>
 
-Trophy level is 1000 to join, but there is no trophy level requirement. <br/>
+Trophy level is 1200 to join, but there is no trophy level requirement. <br/>
 You must agree to follow our rules under The Jedi Code section and speak English. 
 
 Joining the Ganja Jedi requires a minimum of: <br/>
-*TH6:*  Must be very active/eager to level.   
 *TH7:*  Maxed Level 6 troops <br/>
 *TH8:*  Level 2+ Dragons and Lvl 1+ Barb King <br/>
 *TH9:*  Level 2+ Golems and Lvl 10+ Barb King <br/>
