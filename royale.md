@@ -16,5 +16,5 @@ Hear ye, hear ye! We welcome Royale Jedi who are active, polite, have a good sen
 <br/>
 **Minimum Requirements:** <br/>
 We need MAX participation during Clan Chest Sessions. A minimum of 20 Towers is suggested per session. <br/>
-There is no minimum donation number, and greed is not tolerated. You must be willing to donate, and donate often.  <br/>
+The minimum donation number is 100+ per cycle. You must be willing to donate, and donate often. Greed is not tolerated. <br/>
 
